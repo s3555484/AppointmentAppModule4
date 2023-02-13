@@ -1,6 +1,6 @@
 // AppointmentApp.java
-// D. Singletary
-// 1/23/22
+// T. Olugbemi
+// 02/13/23
 // creates an appointment for a contact
 
 package edu.fscj.cop2805c.calendar;
